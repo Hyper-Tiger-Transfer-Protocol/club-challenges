@@ -6,4 +6,4 @@ win
 win.c
 win.c
 ignore/test
-chal.c
+ignore/chal.c
