@@ -1,0 +1,1 @@
+The binary prints "Loser!!". I guess it didn't learn its lesson. Can you make it say something a little nicer?
