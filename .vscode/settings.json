@@ -1,5 +1,10 @@
 {
     "files.associations": {
         "stdio.h": "c"
-    }
+    },
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "CryptoSeries/JSON_import_examples/json-simple-1.1.jar",
+        "CryptoSeries/JSON_import_examples/java_example/json-simple-1.1.jar"
+    ]
 }

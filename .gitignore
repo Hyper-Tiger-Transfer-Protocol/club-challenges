@@ -9,3 +9,5 @@ ignore/test
 ignore/chal.c
 chal.c
 chal2/chal.c
+affine_maker.py
+DS.store
