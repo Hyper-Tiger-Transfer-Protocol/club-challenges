@@ -6,14 +6,14 @@ Every challenge within this section is designed to build and test various aspect
 ---
 # Table of Contents
 - [Challenges](#challenges)
-  - [Beginner Challenges](#beginner)
-      - [A Fine Cipher](#affine)
-      - [CAESARRRRRRRRR!](#rotation)
-      - [On The Fence](#rail&fence)
-      - [Rank And File](#row&column)
-  - [Intermediate Challenges](#intermediate-challenges-intermediate)
-  - [Difficult Challenges](#difficult-challenges-difficult)
-  - [Master Challenges](#master-challenges-master)
+  - [Beginner Challenges](#beginner-challenges)
+      - [A Fine Cipher](#a-fine-cipher)
+      - [CAESARRRRRRRRR!](#caesarrrrrrrrr)
+      - [On The Fence](#on-the-fence)
+      - [Rank And File](#rank-and-file)
+  - [Intermediate Challenges](#intermediate-challenges)
+  - [Difficult Challenges](#difficult-challenges)
+  - [Master Challenges](#master-challenges)
 ---
 
 # Challenges {#challenges}
@@ -23,9 +23,9 @@ Below are the challenges and some recommended resources to help in solving the, 
 
 <font size="3" style="font-weight:400">In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/).</font>
 ---
-## Beginner Challenges {# beginner}
+## Beginner Challenges
 
-#### A Fine Cipher {# affine}
+#### A Fine Cipher
 ##### [What is an affine cipher?](https://en.wikipedia.org/wiki/Affine_cipher)
 ##### [Challenge README](./A_fine_cipher/README.md)
 This challenge covers affine ciphers, a type of substitution cipher. In general, the encrypted letters follow the following pattern:
@@ -37,24 +37,24 @@ This challenge covers affine ciphers, a type of substitution cipher. In general,
 
 If you want to learn more about why affine works as a cipher and why the decryption function for it requires a and n to be coprime, I recommend you learn about the modulus function and congruence classes.
 
-#### CAESARRRRRRRRR! {# rotation}
+#### CAESARRRRRRRRR!
 ##### [What is a rotation cipher?](https://en.wikipedia.org/wiki/Caesar_cipher)
 ##### [Challenge README](./CAESARRRRRRRRRR!/README.md)
 
-#### On The Fence {#rail&fence}
+#### On The Fence
 #####[What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
 #####[Challenge README](./On_the_fence/README.md)
 
-#### Rank And File {#row&column}
+#### Rank And File
 #####[What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
 #####[Challenge README](./Rank_and_File/README.md)
 
 ---
-## Intermediate Challenges {#intermediate}
+## Intermediate Challenges
 
 ---
-## Difficult Challenges {#difficult}
+## Difficult Challenges
 
 ---
-## Master Challenges {#master}
+## Master Challenges
 ---

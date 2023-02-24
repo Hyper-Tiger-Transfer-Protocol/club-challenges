@@ -1,7 +1,7 @@
 # A Fine Cipher
 **[Return to main page](../README.md)**
-- [Part 1: It is Not Fine](#part1)
-- [Part 2: Extending the Alphabet](#part2)
+- [Part 1: It is Not Fine](#part-1:-it-is-not-fine)
+- [Part 2: Extending the Alphabet](#part-2:-extending-the-alphabet)
 
 ---
 #### Practice Ciphertext: [JSON](./ciphertext/ciphertext.json) | [TXT](./ciphertext/ciphertext.txt)
@@ -9,15 +9,15 @@
 ##### *Note:* The JSON is in the format [{a, b, ciphertext}] and the text document is a tab deliminated list for each row formatted as "a b   ciphertext".
 ---
 
-## Part 1: It is Not Fine {#part1}
+## Part 1: It is Not Fine
 
-![It's fine meme](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Fmobile%2F000%2F018%2F012%2Fthis_is_fine.jpg&imgrefurl=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fthis-is-fine&tbnid=T1t8IOPcmi1LiM&vet=12ahUKEwjjv_nThq39AhUtMN4AHS1LD3MQMygCegUIARC1AQ..i&docid=3agksKSWxmua5M&w=800&h=450&q=its%20fine%20meme&client=firefox-b-1-d&ved=2ahUKEwjjv_nThq39AhUtMN4AHS1LD3MQMygCegUIARC1AQ)
+![It's fine meme](https://i.kym-cdn.com/entries/icons/mobile/000/018/012/this_is_fine.jpg)
 
 I have this encrypted text, and I've been told its a fine text. Now that I think about it, I think they meant affine text. Luckily, it seems to only be using the english alphabet, ignoring casing, and ignores punctuation and spaces. Also, lucky for you, I have been playing around with the text, and I would have to rate this text a 5 through a 15. Please help me make this affine text a fine text!
 
 **The fine text:** *odi vade ro vchi rpis qhh, odi vade ro tadx rpis, odi vade ro bvade rpis qhh qdx ad rpi xqvwdigg badx rpis.*
 
-## Part 2: Extending the Alphabet {#part2}
+## Part 2: Extending the Alphabet
 
 ![ASCII alphabet](https://res.cloudinary.com/practicaldev/image/fetch/s--2xoVYXR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gcsd9q3utce801qbfghq.jpg)
 
