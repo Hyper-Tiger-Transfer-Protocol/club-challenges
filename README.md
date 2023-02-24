@@ -1,1 +1,4 @@
-# club-challenges
+# Club Challenges
+
+- [Binary Exploitation](./BinarySeries/)
+- [Cryptography](./CryptoSeries/)

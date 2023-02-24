@@ -1,1 +1,7 @@
-#TODO - Implement Ruby JSON example
+require 'json'
+require 'pp'
+
+json = File.read('../plaintext/plaintext.json')
+obj = JSON.parse(json)
+
+pp obj
