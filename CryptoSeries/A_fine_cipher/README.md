@@ -6,7 +6,7 @@
 ---
 #### Practice Ciphertext: [JSON](./ciphertext/ciphertext.json) | [TXT](./ciphertext/ciphertext.txt)
 
-##### *Note:* The JSON is in the format [{a, b, ciphertext}] and the text document is a tab deliminated list for each row formatted as "a b   ciphertext".
+##### *Note:* The JSON is in the format [{a^-1^, b, ciphertext}] and the text document is a tab deliminated list for each row formatted as "a b   ciphertext".
 ---
 
 ## Part 1: It is Not Fine

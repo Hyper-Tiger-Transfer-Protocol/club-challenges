@@ -16,12 +16,12 @@ Every challenge within this section is designed to build and test various aspect
   - [Master Challenges](#master-challenges)
 ---
 
-# Challenges {#challenges}
+# Challenges
 Below are the challenges and some recommended resources to help in solving the, barring hints. The linked plaintext documents are the strings used in the provided ciphertext documents. The provided ciphertexts are not a part of the final flag and are for testing purposes.
 
 #### Plaintext: [JSON](./plaintext/plaintext.json) | [TXT](./plaintext/plaintext.txt)
 
-<font size="3" style="font-weight:400">In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/).</font>
+In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/).
 ---
 ## Beginner Challenges
 
@@ -42,12 +42,12 @@ If you want to learn more about why affine works as a cipher and why the decrypt
 ##### [Challenge README](./CAESARRRRRRRRRR!/README.md)
 
 #### On The Fence
-#####[What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
-#####[Challenge README](./On_the_fence/README.md)
+##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
+##### [Challenge README](./On_the_fence/README.md)
 
 #### Rank And File
-#####[What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
-#####[Challenge README](./Rank_and_File/README.md)
+##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
+##### [Challenge README](./Rank_and_File/README.md)
 
 ---
 ## Intermediate Challenges
