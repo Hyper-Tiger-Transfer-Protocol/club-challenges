@@ -1,7 +1,7 @@
 # A Fine Cipher
 **[Return to main page](../README.md)**
-- [Part 1: It is Not Fine](#part-1:-it-is-not-fine)
-- [Part 2: Extending the Alphabet](#part-2:-extending-the-alphabet)
+- [Part 1: It is Not Fine](#part-1)
+- [Part 2: Extending the Alphabet](#part-2)
 
 ---
 #### Practice Ciphertext: [JSON](./ciphertext/ciphertext.json) | [TXT](./ciphertext/ciphertext.txt)
