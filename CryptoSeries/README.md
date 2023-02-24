@@ -1,4 +1,4 @@
-#Beginner Cryptography Challenges
+#Cryptography Challenges
 Every challenge within this section is designed to build and test various aspects of cryptographic knowledge. As the challenges grow in number, so too shall this document. This document will contain the list of challenges and resources to learn about the principle(s) being tested. Each challenge will have its own **README** as well. Therein you will find the outline of the challenge, the parts it has, and hints for the challenge. Later on, these **READMEs** will also contain the number of points the challenges are worth.
 
 **NOTE:** Each part of a challenge is worth points.
@@ -21,7 +21,7 @@ Below are the challenges and some recommended resources to help in solving the, 
 
 #### Plaintext: [JSON](./plaintext/plaintext.json) | [TXT](./plaintext/plaintext.txt)
 
-<font size="3" style="font-weight:400">In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/)</font>
+<font size="3" style="font-weight:400">In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/).</font>
 ---
 ## Beginner Challenges {#beginner}
 
