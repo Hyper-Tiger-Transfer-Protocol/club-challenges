@@ -1,4 +1,4 @@
-#Cryptography Challenges
+# Cryptography Challenges
 Every challenge within this section is designed to build and test various aspects of cryptographic knowledge. As the challenges grow in number, so too shall this document. This document will contain the list of challenges and resources to learn about the principle(s) being tested. Each challenge will have its own **README** as well. Therein you will find the outline of the challenge, the parts it has, and hints for the challenge. Later on, these **READMEs** will also contain the number of points the challenges are worth.
 
 **NOTE:** Each part of a challenge is worth points.
@@ -23,9 +23,9 @@ Below are the challenges and some recommended resources to help in solving the, 
 
 <font size="3" style="font-weight:400">In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/).</font>
 ---
-## Beginner Challenges {#beginner}
+## Beginner Challenges {# beginner}
 
-#### A Fine Cipher {#affine}
+#### A Fine Cipher {# affine}
 ##### [What is an affine cipher?](https://en.wikipedia.org/wiki/Affine_cipher)
 ##### [Challenge README](./A_fine_cipher/README.md)
 This challenge covers affine ciphers, a type of substitution cipher. In general, the encrypted letters follow the following pattern:
@@ -37,7 +37,7 @@ This challenge covers affine ciphers, a type of substitution cipher. In general,
 
 If you want to learn more about why affine works as a cipher and why the decryption function for it requires a and n to be coprime, I recommend you learn about the modulus function and congruence classes.
 
-#### CAESARRRRRRRRR! {#rotation}
+#### CAESARRRRRRRRR! {# rotation}
 ##### [What is a rotation cipher?](https://en.wikipedia.org/wiki/Caesar_cipher)
 ##### [Challenge README](./CAESARRRRRRRRRR!/README.md)
 
