@@ -1,6 +1,6 @@
 # A Fine Cipher
 **[Return to main page](../README.md)**
-- [Part 1: It is Not Fine](#part-1)
+- [Part 1: It is Not Fine](#part-1:)
 - [Part 2: Extending the Alphabet](#part-2)
 
 ---
