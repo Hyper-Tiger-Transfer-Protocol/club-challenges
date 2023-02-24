@@ -29,7 +29,7 @@ In addition, examples for how to use json in some programming languages are give
 
 #### A Fine Cipher
 ##### [What is an affine cipher?](https://en.wikipedia.org/wiki/Affine_cipher)
-##### [Challenge README](./A_fine_cipher/README.md)
+##### [Challenge README](./A_fine_cipher/)
 This challenge covers affine ciphers, a type of substitution cipher. In general, the encrypted letters follow the following pattern:
 > Let p be the plaintext character and c be the ciphertext character of the alphabet A.
 > c = (a*p + b)mod(n), where a and b are scalars with a != 0, n is the size of the alphabet, |A|, and p and c are abstracted to their position in within A indexed at 0.
@@ -41,15 +41,15 @@ If you want to learn more about why affine works as a cipher and why the decrypt
 
 #### CAESARRRRRRRRR!
 ##### [What is a rotation cipher?](https://en.wikipedia.org/wiki/Caesar_cipher)
-##### [Challenge README](./CAESARRRRRRRRRR!/README.md)
+##### [Challenge README](./CAESARRRRRRRRRR!/)
 
 #### On The Fence
 ##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
-##### [Challenge README](./On_the_fence/README.md)
+##### [Challenge README](./On_the_fence/)
 
 #### Rank And File
 ##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
-##### [Challenge README](./Rank_and_File/README.md)
+##### [Challenge README](./Rank_and_File/)
 
 ---
 ## Intermediate Challenges

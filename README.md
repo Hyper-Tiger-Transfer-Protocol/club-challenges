@@ -1,4 +1,4 @@
 # Club Challenges
 
-- [Binary Exploitation](./BinarySeries/README.md)
-- [Cryptography](./CryptoSeries/README.md)
+- [Binary Exploitation](./BinarySeries/)
+- [Cryptography](./CryptoSeries/)
