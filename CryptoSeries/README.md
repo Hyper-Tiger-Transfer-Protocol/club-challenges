@@ -22,7 +22,9 @@ Below are the challenges and some recommended resources to help in solving the, 
 #### Plaintext: [JSON](./plaintext/plaintext.json) | [TXT](./plaintext/plaintext.txt)
 
 In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/).
+
 ---
+
 ## Beginner Challenges
 
 #### A Fine Cipher
