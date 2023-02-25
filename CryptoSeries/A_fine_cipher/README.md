@@ -1,6 +1,6 @@
 # A Fine Cipher
 
-**[Return to main page](../README.md)**
+**[Return to main page](../)**
 
 - [Part 1: It is Not Fine](#part-1-it-is-not-fine)
 - [Part 2: Extending the Alphabet](#part-2-extending-the-alphabet)
@@ -10,7 +10,7 @@
 
 #### Practice Ciphertext: [JSON](./ciphertext/ciphertext.json) | [TXT](./ciphertext/ciphertext.txt)
 
-##### _Note:_ The JSON is in the format [{a^-1^, b, ciphertext}] and the text document is a tab deliminated list for each row formatted as "a^-1^ b ciphertext"
+##### _Note:_ The JSON is in the format [{a<sup>-1</sup>, b, ciphertext}] and the text document is a tab deliminated list for each row formatted as "a<sup>-1</sup> b ciphertext"
 
 ---
 
@@ -49,7 +49,7 @@ What is this! Apparently, the alphabet can include more than the english alphabe
 <details>
 <summary>A properly defined function</summary>
 If you haven't already, your decode function is recommended to look like the following
-<code>decode(a, b, c, n)</code> where a is a<sup>-1</sup>, b is b, c is the position of the ciphertext character in the alphabet (zero-indexed), and n is the size of the alphabet.
+<code>decode(a, b, c, n) -> int</code> where a is a<sup>-1</sup>, b is b, c is the position of the ciphertext character in the alphabet (zero-indexed), and n is the size of the alphabet. It might help to have the function return the position of the character instead of trying to decode the entire string within one function.
 </details>
 
 ## Part 3: A Likely Solution

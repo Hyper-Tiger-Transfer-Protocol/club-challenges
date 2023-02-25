@@ -5,5 +5,9 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "CryptoSeries/JSON_import_examples/java_example/json-simple-1.1.jar"
-    ]
+    ],
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+      }
 }
