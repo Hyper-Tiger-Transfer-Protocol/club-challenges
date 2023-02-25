@@ -1,4 +1,3 @@
-//FIXME - Need to make it so file ia actually parsed
 package main
 
 import (
@@ -10,27 +9,35 @@ import (
 
 func main() {
 
-	jsonFile, err := os.Open("../plaintext/plaintext.json")
+	jsonArrayFile, err := os.Open("../plaintext/plaintext_array.json")
 
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	jsonData, err := json.Marshal(jsonFile)
+	defer jsonArrayFile.Close()
+
+	listByteValue, _ := ioutil.ReadAll(jsonArrayFile)
+
+    var list []interface{}
+    json.Unmarshal([]byte(listByteValue), &list)
+
+    fmt.Println(list)
+
+	jsonObjectFile, err := os.Open("../plaintext/plaintext_object.json")
+
 	if err != nil {
-		fmt.Printf("could not marshal json: %s\n", err)
-		return
+		fmt.Println(err)
 	}
-fmt.Printf("json data: %s\n", jsonData)
 
+	defer jsonObjectFile.Close()
 
-	defer jsonFile.Close()
+	objectByteValue, _ := ioutil.ReadAll(jsonObjectFile)
 
-	byteValue, _ := ioutil.ReadAll(jsonFile)
+    var obj map[string]interface{}
+    json.Unmarshal([]byte(objectByteValue), &obj)
 
-    var result map[string]interface{}
-    json.Unmarshal([]byte(byteValue), &result)
+    fmt.Println(obj)
 
-    fmt.Println(result[])
 }
 

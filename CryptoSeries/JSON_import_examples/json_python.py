@@ -1,8 +1,11 @@
 import json
 
-f = open("../plaintext/plaintext.json")
-
+f = open("../plaintext/plaintext_array.json")
 data = json.load(f)
+f.close()
+print(data)
 
-for string in data:
-    print(string)
+f = open("../plaintext/plaintext_object.json")
+data = json.load(f)
+f.close()
+print(data)
