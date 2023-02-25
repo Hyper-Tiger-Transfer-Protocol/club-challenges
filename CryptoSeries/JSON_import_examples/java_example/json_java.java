@@ -2,18 +2,19 @@ package java_example;
 import java.io.FileReader;
 
 import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 import org.json.simple.parser.*;
 
 public class json_java
 {
     public static void main(String[] args) throws Exception
     {
-        // parsing file "JSONExample.json"
-        Object obj = new JSONParser().parse(new FileReader("CryptoSeries/plaintext/plaintext.json"));
+        Object obj = new JSONParser().parse(new FileReader("CryptoSeries/plaintext/plaintext_array.json"));
+        JSONArray list = (JSONArray) obj;
+        System.out.println(list.toString());
 
-        // typecasting obj to JSONObject
-        JSONArray jo = (JSONArray) obj;
-
-        System.out.println(jo.toString());
+        obj = new JSONParser().parse(new FileReader("CryptoSeries/plaintext/plaintext_object.json"));
+        JSONObject object = (JSONObject) obj;
+        System.out.println(object.toString());
     }
 }
