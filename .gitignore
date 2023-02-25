@@ -9,5 +9,7 @@ ignore/test
 ignore/chal.c
 chal.c
 chal2/chal.c
-affine_maker.py
+*_maker.py
+*_solver.py
+generated.txt
 DS.store
