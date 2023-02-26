@@ -20,7 +20,7 @@ Every challenge within this section is designed to build and test various aspect
 # Challenges
 Below are the challenges and some recommended resources to help in solving the, barring hints. The linked plaintext documents are the strings used in the provided ciphertext documents. The provided ciphertexts are not a part of the final flag and are for testing purposes.
 
-#### Plaintext: [JSON](./plaintext/plaintext.json) | [TXT](./plaintext/plaintext.txt)
+#### Plaintext: [JSON Array](./plaintext/plaintext_array.json) | [JSON Object](./plaintext/plaintext_object.json) | [TXT](./plaintext/plaintext.txt)
 
 In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/).
 
