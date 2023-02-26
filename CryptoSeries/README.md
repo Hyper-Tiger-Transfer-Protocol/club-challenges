@@ -10,7 +10,7 @@ Every challenge within this section is designed to build and test various aspect
     - [Substitution Ciphers](#substitution-ciphers)
         - [CAESARRRRRRRRR!](#caesarrrrrrrrr)
         - [A Fine Cipher](#a-fine-cipher)
-        - [Vigenere or Visionary? ***In progress**](#vigenere-or-visionary?)
+        - [Vigenere or Visionary? ***In progress**](#vigenere-or-visionary)
     - [Transposition Ciphers](#transposition-ciphers)
         - [Rank And File ***In progress**](#rank-and-file)
         - [On The Fence ***In progress**](#on-the-fence)
