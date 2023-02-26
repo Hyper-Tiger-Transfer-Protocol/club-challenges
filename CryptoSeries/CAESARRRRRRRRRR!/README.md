@@ -4,7 +4,7 @@
 
 - [Part 1: Caesar, My Good Friend](#part-1-caesar-my-good-friend)
 - [Part 2: A Surprising Revelation](#part-2-a-surprising-revelation)
-- [Part 3: Foreign Correspondence](#part-2-foreign-correspondence)
+- [Part 3: Foreign Correspondence](#part-3-foreign-correspondence)
 - [Part 4: Probably the Code](#part-4-probably-the-code)
 
 ---
