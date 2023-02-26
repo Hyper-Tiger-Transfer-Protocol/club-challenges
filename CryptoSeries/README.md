@@ -7,11 +7,13 @@ Every challenge within this section is designed to build and test various aspect
 # Table of Contents
 - [Challenges](#challenges)
   - [Beginner Challenges](#beginner-challenges)
-      - [CAESARRRRRRRRR!](#caesarrrrrrrrr)
-      - [A Fine Cipher](#a-fine-cipher)
-      - [Vigenere or Visionary?](#vigenere-or-visionary?)
-      - [On The Fence](#on-the-fence)
-      - [Rank And File](#rank-and-file)
+    - [Substitution Ciphers](#substitution-ciphers)
+        - [CAESARRRRRRRRR!](#caesarrrrrrrrr)
+        - [A Fine Cipher](#a-fine-cipher)
+        - [Vigenere or Visionary? ***In progress**](#vigenere-or-visionary?)
+    - [Transposition Ciphers](#transposition-ciphers)
+        - [Rank And File ***In progress**](#rank-and-file)
+        - [On The Fence ***In progress**](#on-the-fence)
   - [Intermediate Challenges](#intermediate-challenges)
   - [Difficult Challenges](#difficult-challenges)
   - [Master Challenges](#master-challenges)
@@ -27,6 +29,8 @@ In addition, examples for how to use json in some programming languages are give
 ---
 
 ## Beginner Challenges
+
+### Substitution Ciphers
 
 #### CAESARRRRRRRRR!
 ##### [What is a rotation cipher?](https://en.wikipedia.org/wiki/Caesar_cipher)
@@ -58,13 +62,15 @@ If you want to learn more about why affine works as a cipher and why the decrypt
 ##### [What is a rotation cipher?](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
 ##### [Challenge README](./Vigenere_or_Visionary?/)
 
-#### On The Fence
-##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
-##### [Challenge README](./On_the_fence/)
+### Transposition Ciphers
 
 #### Rank And File
 ##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
 ##### [Challenge README](./Rank_and_File/)
+
+#### On The Fence
+##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
+##### [Challenge README](./On_the_fence/)
 
 ---
 ## Intermediate Challenges
