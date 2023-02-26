@@ -1,5 +1,5 @@
 # JSON Import Examples
-**[Return to main page](../)**
+**[Return to main page](../../)**
 
 [What is JSON?](https://en.wikipedia.org/wiki/JSON)
 
