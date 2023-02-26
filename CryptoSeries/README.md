@@ -10,7 +10,7 @@ Every challenge within this section is designed to build and test various aspect
     - [Substitution Ciphers](#substitution-ciphers)
         - [CAESARRRRRRRRR!](#caesarrrrrrrrr)
         - [A Fine Cipher](#a-fine-cipher)
-        - [Vigenere or Visionary? ***In progress**](#vigenere-or-visionary?)
+        - [Vigenere or Visionary? ***In progress**](#vigenere-or-visionary)
     - [Transposition Ciphers](#transposition-ciphers)
         - [Rank And File ***In progress**](#rank-and-file)
         - [On The Fence ***In progress**](#on-the-fence)
@@ -24,7 +24,7 @@ Below are the challenges and some recommended resources to help in solving the, 
 
 #### Plaintext: [JSON Array](./plaintext/plaintext_array.json) | [JSON Object](./plaintext/plaintext_object.json) | [TXT](./plaintext/plaintext.txt)
 
-In addition, examples for how to use json in some programming languages are given [here](./JSON_import_examples/).
+In addition, examples for how to use json in some programming languages are given [here](./Info/JSON_import_examples/).
 
 ---
 
@@ -34,7 +34,7 @@ In addition, examples for how to use json in some programming languages are give
 
 #### CAESARRRRRRRRR!
 ##### [What is a rotation cipher?](https://en.wikipedia.org/wiki/Caesar_cipher)
-##### [Challenge README](./CAESARRRRRRRRRR!/)
+##### [Challenge README](./Beginner/CAESARRRRRRRRRR!/)
 
 This challenge covers rotation ciphers, a type of substitution cipher. In general, the encrypted letters follow the following pattern:
 > Let p be the plaintext character and c be the ciphertext character of the alphabet A.
@@ -47,7 +47,7 @@ Two very popular uses of this cipher are the Caesar cipher and ROT13. ROT13 lite
 
 #### A Fine Cipher
 ##### [What is an affine cipher?](https://en.wikipedia.org/wiki/Affine_cipher)
-##### [Challenge README](./A_fine_cipher/)
+##### [Challenge README](./Beginner/A_fine_cipher/)
 
 This challenge covers affine ciphers, a type of substitution cipher. In general, the encrypted letters follow the following pattern:
 > Let p be the plaintext character and c be the ciphertext character of the alphabet A.
@@ -60,17 +60,17 @@ If you want to learn more about why affine works as a cipher and why the decrypt
 
 #### Vigenere or Visionary?
 ##### [What is a rotation cipher?](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
-##### [Challenge README](./Vigenere_or_Visionary?/)
+##### [Challenge README](./Beginner/Vigenere_or_Visionary?/)
 
 ### Transposition Ciphers
 
 #### Rank And File
 ##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
-##### [Challenge README](./Rank_and_File/)
+##### [Challenge README](./Beginner/Rank_and_File/)
 
 #### On The Fence
 ##### [What is a transposition cipher?](https://en.wikipedia.org/wiki/Transposition_cipher)
-##### [Challenge README](./On_the_fence/)
+##### [Challenge README](./Beginner/On_the_fence/)
 
 ---
 ## Intermediate Challenges
