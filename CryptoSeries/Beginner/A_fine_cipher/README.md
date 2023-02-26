@@ -1,6 +1,6 @@
 # A Fine Cipher
 
-**[Return to main page](../)**
+**[Return to main page](../../)**
 
 - [Part 1: It is Not Fine](#part-1-it-is-not-fine)
 - [Part 2: Extending the Alphabet](#part-2-extending-the-alphabet)

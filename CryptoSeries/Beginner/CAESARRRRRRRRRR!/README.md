@@ -1,6 +1,6 @@
 # Caesarrrrrrrrrrrr!
 
-**[Return to main page](../)**
+**[Return to main page](../../)**
 
 - [Part 1: Caesar, My Good Friend](#part-1-caesar-my-good-friend)
 - [Part 2: A Surprising Revelation](#part-2-a-surprising-revelation)
