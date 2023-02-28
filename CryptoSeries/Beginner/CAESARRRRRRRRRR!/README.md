@@ -63,6 +63,11 @@ This challenge uses the Spanish alphabet because the plaintext is in Spanish. Th
 </details>
 
 <details>
+<summary>What is ñ?</summary>
+In the Spanish alphabet, 'ñ' is the letter right after 'n'. 'ñ' is different from other accented characters in Spanish because it is different. Whenever you see Spanish words with 'á', 'é', etc., those accents are just to illustrate emphasis in the pronunciation.
+</details>
+
+<details>
 <summary>A quick Spanish lesson</summary>
 If you are having trouble finding what permutation translates to Spanish, the first part of the plaintext is "Hola, el Papa"
 </details>
