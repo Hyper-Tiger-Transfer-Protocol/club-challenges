@@ -6,6 +6,10 @@ Every challenge within this section is designed to build and test various aspect
 ---
 # Table of Contents
 - [Challenges](#challenges)
+  - [Information](#information)
+    - [JSON Examples](#json-examples)
+    - [GCD](#gcd)
+    - [Modulo Arithmetic](#modulo-arithmetic)
   - [Beginner Challenges](#beginner-challenges)
     - [Substitution Ciphers](#substitution-ciphers)
         - [CAESARRRRRRRRR!](#caesarrrrrrrrr)
@@ -24,7 +28,17 @@ Below are the challenges and some recommended resources to help in solving the, 
 
 #### Plaintext: [JSON Array](./plaintext/plaintext_array.json) | [JSON Object](./plaintext/plaintext_object.json) | [TXT](./plaintext/plaintext.txt)
 
-In addition, examples for how to use json in some programming languages are given [here](./Info/JSON_import_examples/).
+---
+
+## Information
+
+### JSON Examples
+
+JSON is a popular file type due to scalability and ease of use. Because it is so important to know how to use these files, examples have been provided in some programming languages [here](./Info/JSON_import_examples/).
+
+### GCD
+
+### Modulo Arithmetic
 
 ---
 
@@ -59,7 +73,7 @@ This challenge covers affine ciphers, a type of substitution cipher. In general,
 If you want to learn more about why affine works as a cipher and why the decryption function for it requires a and n to be relatively prime, I recommend you learn about the modulus function and congruence classes. Also, there is a subtle relation between rotation ciphers and the affine cipher. Can you find it?
 
 #### Vigenere or Visionary?
-##### [What is a rotation cipher?](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
+##### [What is a Vigenere cipher?](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
 ##### [Challenge README](./Beginner/Vigenere_or_Visionary?/)
 
 ### Transposition Ciphers

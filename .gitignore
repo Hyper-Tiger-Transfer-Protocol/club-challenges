@@ -9,8 +9,9 @@ ignore/test
 ignore/chal.c
 chal.c
 chal2/chal.c
-*_maker.py
-*_solver.py
 generated.txt
 DS.store
+.DS_store
 *_plan.txt
+Submissions/
+Design/

@@ -2,9 +2,10 @@
 
 **[Return to main page](../../)**
 
-- [Part 1: It is Not Fine](#part-1-it-is-not-fine)
-- [Part 2: Extending the Alphabet](#part-2-extending-the-alphabet)
-- [Part 3: A Likely Solution](#part-3-a-likely-solution)
+- [Part 1: One for the Books](#part-1-one-for-the-books)
+- [Part 2: It is Not Fine](#part-2-it-is-not-fine)
+- [Part 3: Extending the Alphabet](#part-3-extending-the-alphabet)
+- [Part 4: A Likely Solution](#part-4-a-likely-solution)
 
 ---
 
@@ -14,7 +15,27 @@
 
 ---
 
-## Part 1: It is Not Fine
+## Part 1: One for the Books
+
+![The Prince by Machiavelli](https://kbimages1-a.akamaihd.net/a319db5c-ee33-41d3-b25b-c64e3921f618/1200/1200/False/the-prince-13.jpg)
+
+Machiavellian Philosophy is an interesting topic of discussion. However, I need to make sure you are interested in discussing the topics of *The Prince*. So, I have devised a small test to see if you are serious about discussing this amazing text! I hope you are able to figure out what my number ONE quote of *The Prince*, and I hope it is a 1 to you too.
+
+**Nugget of Philosophy:** _aranukja oaao sdwp ukq wllawn pk xa, bas atlaneajya sdwp ukq nawhhu wna._
+
+**Hints:**
+
+<details>
+<summary>1 for the Ages</summary>
+The a that encrypted this affine cipher is 1. Now, the question is what a<sup>-1</sup> is.
+</details>
+
+<details>
+<summary>Something seems similar...</summary>
+If the a in a affine is 1, that means that a<sup>-1</sup> is also 1. I feel like this is just a complicated way to represent another cipher.
+</details>
+
+## Part 2: It is Not Fine
 
 ![It's fine meme](https://i.kym-cdn.com/entries/icons/mobile/000/018/012/this_is_fine.jpg)
 
@@ -34,7 +55,7 @@ The rating range of 5 through 15 refers to the value of a used to encrypt the te
 The number of combinations you need to check is less than 500! However, to get to this low number of checks, something has to be done to limit either a<sup>-1</sup> or b. Know that gcd(a, n) must equal 1, and that a(mod(n)) * a<sup>-1</sup>(mod(n)) = 1(mod(n))
 </details>
 
-## Part 2: Extending the Alphabet
+## Part 3: Extending the Alphabet
 
 ![ASCII alphabet](https://res.cloudinary.com/practicaldev/image/fetch/s--2xoVYXR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gcsd9q3utce801qbfghq.jpg)
 
@@ -52,7 +73,7 @@ If you haven't already, your decode function is recommended to look like the fol
 <code>decode(a, b, c, n) -> int</code> where a is a<sup>-1</sup>, b is b, c is the position of the ciphertext character in the alphabet (zero-indexed), and n is the size of the alphabet. It might help to have the function return the position of the character instead of trying to decode the entire string within one function.
 </details>
 
-## Part 3: A Likely Solution
+## Part 4: A Likely Solution
 
 ***Encouraged to work with a partner or group**
 
