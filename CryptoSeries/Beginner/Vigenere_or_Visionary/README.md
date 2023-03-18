@@ -1,11 +1,12 @@
-# Caesarrrrrrrrrrrr!
+# Vigenere or Visionary?
 
 **[Return to main page](../../)**
 
-- [Part 1: Caesar, My Good Friend](#part-1-caesar-my-good-friend)
-- [Part 2: A Surprising Revelation](#part-2-a-surprising-revelation)
-- [Part 3: Foreign Correspondence](#part-3-foreign-correspondence)
-- [Part 4: Probably the Code](#part-4-probably-the-code)
+- [Part 1: AAAAAAAAAA](#part-1-caesar-my-good-friend) // basically a shift cipher
+- [Part 2: ](#part-2-a-surprising-revelation) // give Key and dictionary
+- [Part 3: ](#part-3-foreign-correspondence) // give key but no dictionary
+- [Part 4: A True Visionary](#part-3-foreign-correspondence) // give dictionary but no key
+- [Part 5: Probably the Code](#part-4-probably-the-code)
 
 ---
 
@@ -22,7 +23,7 @@
 As of today, Caesar Millan has just been voted into the position of Pope, and he has vowed to ensure all dogs go to heaven! I look forward to seeing how he takes his place in the Vatican, but I am curious by the last parting wisdom of his inaugural address,
  > _grjv pdnh wkh zruog jr 'urxqg_
 
- I have no doubts it is a positive message. However, I would like to know the message left to us by our new Pope. Could you please help me?
+ I have now doubts it is a positive message. However, I would like to know the message left to us by our new Pope. Could you please help me?
 
 <details>
 <summary>Caesar likes Caesar</summary>

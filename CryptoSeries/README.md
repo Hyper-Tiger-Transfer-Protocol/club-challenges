@@ -74,7 +74,7 @@ If you want to learn more about why affine works as a cipher and why the decrypt
 
 #### Vigenere or Visionary?
 ##### [What is a Vigenere cipher?](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
-##### [Challenge README](./Beginner/Vigenere_or_Visionary?/)
+##### [Challenge README](./Beginner/Vigenere_or_Visionary/)
 
 ### Transposition Ciphers
 
