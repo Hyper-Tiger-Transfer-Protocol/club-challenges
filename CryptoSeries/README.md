@@ -1,7 +1,5 @@
-# Cryptography Challenges
+# Cryptography Series
 Every challenge within this section is designed to build and test various aspects of cryptographic knowledge. As the challenges grow in number, so too shall this document. This document will contain the list of challenges and resources to learn about the principle(s) being tested. Each challenge will have its own **README** as well. Therein you will find the outline of the challenge, the parts it has, and hints for the challenge. Later on, these **READMEs** will also contain the number of points the challenges are worth.
-
-**NOTE:** Each part of a challenge is worth points.
 
 ---
 # Table of Contents
